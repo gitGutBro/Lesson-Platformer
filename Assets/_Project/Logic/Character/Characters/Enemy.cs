@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Character.Characters
+namespace _Project.Logic.Character.Characters
 {
     public class Enemy : MonoBehaviour
     {

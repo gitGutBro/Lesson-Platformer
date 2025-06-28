@@ -1,6 +1,6 @@
 using Zenject;
 
-namespace Installers
+namespace _Project.Configs.Installers
 {
     public class SceneInstaller : MonoInstaller
     {

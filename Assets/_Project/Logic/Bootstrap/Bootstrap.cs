@@ -1,7 +1,7 @@
 using UnityEngine;
-using Character.Characters;
+using _Project.Logic.Character.Characters;
 
-namespace Bootstrap
+namespace _Project.Logic.Bootstrap
 {
     internal class Bootstrap : MonoBehaviour
     {
