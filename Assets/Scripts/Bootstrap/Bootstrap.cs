@@ -1,5 +1,5 @@
-using Character.Characters;
 using UnityEngine;
+using Character.Characters;
 
 namespace Bootstrap
 {
