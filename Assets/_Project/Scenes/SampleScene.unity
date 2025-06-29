@@ -580,9 +580,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerPrefab: {fileID: 6803066417510342954, guid: a5578ee6f62d47d4c9d31c283e0e03bc, type: 3}
-  _enemyPrefab: {fileID: 0}
-  _playerSpawnPoint: {fileID: 354693715}
-  _enemySpawnPoint: {fileID: 810511482}
+  _enemyPrefab: {fileID: 7121744586023413941, guid: 5b4b12bafbce57c4bbf83d7ad7c74395, type: 3}
+  _playerSpawnPoint: {fileID: 354693716}
+  _enemySpawnPoint: {fileID: 810511483}
 --- !u!1 &712970016
 GameObject:
   m_ObjectHideFlags: 0
@@ -1634,7 +1634,7 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 1768096706}
   - {fileID: 491717922}
-  - {fileID: 681802147}
   - {fileID: 2146318482}
+  - {fileID: 681802147}
   - {fileID: 761812628}
   - {fileID: 1993759727}

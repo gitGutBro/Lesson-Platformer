@@ -2,7 +2,8 @@
     "name": "Bootstrap",
     "rootNamespace": "",
     "references": [
-        "GUID:a3e1a1b9c83a64e48b20a146070ff3a4"
+        "GUID:a3e1a1b9c83a64e48b20a146070ff3a4",
+        "GUID:42ce75f680574bd4d9a983167526ff33"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

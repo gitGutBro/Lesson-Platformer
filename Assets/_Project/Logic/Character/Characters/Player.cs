@@ -1,10 +1,11 @@
 using UnityEngine;
 using Zenject;
+using _Project.Logic.Shared.Spawner;
 
 namespace _Project.Logic.Character.Characters
 {
     [RequireComponent(typeof(Rigidbody2D))]
-    public class Player : MonoBehaviour
+    public class Player : MonoBehaviour, ISpawnable
     {
         private Rigidbody2D _rigidbody2D;
 
